@@ -20,3 +20,7 @@ A circular search icon that smoothly expands into a search input when focused.
 ---
 
 ## 📂 Project Structure
+📁 Animated-Search-Box
+│── search.html
+│── search.css
+└── README.md
